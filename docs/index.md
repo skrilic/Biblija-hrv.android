@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Biblija-hrv
 
-You can use the [editor on GitHub](https://github.com/skrilic/Biblija-hrv.android/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Aplikacija za čitanje Biblije na hrvatskom jeziku po prijevodu Ivana Evanđeliste Šarića.
+Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Biblija-hrv](https://biblija-hrv.vercel.app).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Osnovne značajke
+- Izbor između tri ugrađene vizualne teme ("noćna", "dnevna" i "sepia")
+- Izbor veličine slova teksta
+- Izbor Zavjeta iz koga će biti na slučajan način prikazivan redak na naslovnici
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skrilic/Biblija-hrv.android/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

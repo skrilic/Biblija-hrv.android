@@ -16,6 +16,7 @@ out
 /build
 /CordovaLib/build
 /app/build
+/app/release
 gradle-app.setting
 # Android Studio
 .idea
