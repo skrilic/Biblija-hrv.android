@@ -1,0 +1,58 @@
+{
+  "name": "Biblija-hrv",
+  "short_name": "Biblija",
+  "description": "Biblija na hrvatskom jeziku u prijevodu Ivana Ev. Šarića",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16",
+      "purpose": "any"
+    },
+    {
+      "src": "logo48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "any"
+    },
+    {
+      "src": "logo96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "any"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000",
+  "orientation": "portrait-primary",
+  "shortcuts": [
+    {
+      "name": "Naslovnica",
+      "url": "/",
+      "description": "Naslovnica",
+      "icons": [{ "src": "/logo96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Sadržaj",
+      "url": "/toc"
+    },
+    {
+      "name": "Pretraga",
+      "url": "/search"
+    }
+  ]
+}
