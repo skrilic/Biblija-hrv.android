@@ -3,6 +3,14 @@
 Aplikacija za čitanje Biblije na hrvatskom jeziku po prijevodu Ivana Evanđeliste Šarića.
 Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Biblija-hrv](https://biblija-hrv.vercel.app).
 
+[Biblija-hrv](https://play.google.com/store/apps/details?id=com.sks.biblija)
+
+<p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.sks.biblija">
+        <img width="460" height="300" src="https://skrilic.github.io/Biblija-hrv.android/pngwing.com.png">
+    </a>
+</p>
+
 # Osnovne značajke
 - Izbor između tri ugrađene vizualne teme ("noćna", "dnevna" i "sepia").
 - Izbor veličine slova teksta.
