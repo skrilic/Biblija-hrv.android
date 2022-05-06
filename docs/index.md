@@ -5,7 +5,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.sks.biblija">
-        <img width="512" height="512" src="https://skrilic.github.io/Biblija-hrv.android/pngwing.com.png">
+        <img width="256" height="256" src="https://skrilic.github.io/Biblija-hrv.android/pngwing.com.png">
     </a>
 </p>
 
