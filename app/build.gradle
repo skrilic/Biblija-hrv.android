@@ -38,7 +38,7 @@ buildscript {
     repositories repos
 
     dependencies {
-        classpath "com.android.tools.build:gradle:7.1.3"
+        classpath 'com.android.tools.build:gradle:7.2.0'
 
         if (cordovaConfig.IS_GRADLE_PLUGIN_KOTLIN_ENABLED) {
             classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${cordovaConfig.KOTLIN_VERSION}"
@@ -191,9 +191,6 @@ android {
         compileSdkVersion cordovaConfig.SDK_VERSION
     }
 
-    lintOptions {
-      abortOnError false
-    }
 
     buildToolsVersion cordovaConfig.BUILD_TOOLS_VERSION
 
@@ -275,6 +272,10 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
+    lint {
+        abortOnError false
+    }
+    namespace 'com.sks.biblija'
 }
 
 /*
