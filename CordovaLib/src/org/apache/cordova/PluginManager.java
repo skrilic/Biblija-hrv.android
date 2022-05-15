@@ -40,12 +40,12 @@ import android.os.Build;
  * from JavaScript.
  */
 public class PluginManager {
-    private static String TAG = "PluginManager";
+    private static final String TAG = "PluginManager";
 
     // @todo same as ConfigXmlParser. Research centralizing ideas, maybe create CordovaConstants
-    private static String SCHEME_HTTPS = "https";
+    private static final String SCHEME_HTTPS = "https";
     // @todo same as ConfigXmlParser. Research centralizing ideas, maybe create CordovaConstants
-    private static String DEFAULT_HOSTNAME = "localhost";
+    private static final String DEFAULT_HOSTNAME = "localhost";
 
     private static final int SLOW_EXEC_WARNING_THRESHOLD = Debug.isDebuggerConnected() ? 60 : 16;
 

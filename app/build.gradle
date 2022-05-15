@@ -133,15 +133,15 @@ if (ext.cdvReleaseSigningPropertiesFile == null && file('../release-signing.prop
 }
 
 // Cast to appropriate types.
-ext.cdvBuildMultipleApks = cdvBuildMultipleApks == null ? false : cdvBuildMultipleApks.toBoolean();
-ext.cdvVersionCodeForceAbiDigit = cdvVersionCodeForceAbiDigit == null ? false : cdvVersionCodeForceAbiDigit.toBoolean();
+ext.cdvBuildMultipleApks = cdvBuildMultipleApks == null ? false : cdvBuildMultipleApks.toBoolean()
+ext.cdvVersionCodeForceAbiDigit = cdvVersionCodeForceAbiDigit == null ? false : cdvVersionCodeForceAbiDigit.toBoolean()
 ext.cdvVersionCode = cdvVersionCode == null ? null : Integer.parseInt('' + cdvVersionCode)
 
 def computeBuildTargetName(debugBuild) {
     def ret = 'assemble'
     if (cdvBuildMultipleApks && cdvBuildArch) {
         def arch = cdvBuildArch == 'arm' ? 'armv7' : cdvBuildArch
-        ret += '' + arch.toUpperCase().charAt(0) + arch.substring(1);
+        ret += '' + arch.toUpperCase().charAt(0) + arch.substring(1)
     }
     return ret + (debugBuild ? 'Debug' : 'Release')
 }
