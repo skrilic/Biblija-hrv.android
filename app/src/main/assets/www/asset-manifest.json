@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.294eb953.css",
-    "main.js": "/static/js/main.f53c563d.js",
-    "static/js/411.83db3045.chunk.js": "/static/js/411.83db3045.chunk.js",
+    "main.js": "/static/js/main.b8762665.js",
+    "static/js/411.f67d52b1.chunk.js": "/static/js/411.f67d52b1.chunk.js",
     "static/js/479.d9814218.chunk.js": "/static/js/479.d9814218.chunk.js",
-    "static/js/790.b354fa44.chunk.js": "/static/js/790.b354fa44.chunk.js",
-    "static/js/475.e17d86b0.chunk.js": "/static/js/475.e17d86b0.chunk.js",
+    "static/js/790.c0815948.chunk.js": "/static/js/790.c0815948.chunk.js",
+    "static/js/475.b266b420.chunk.js": "/static/js/475.b266b420.chunk.js",
     "static/js/444.f0fe0372.chunk.js": "/static/js/444.f0fe0372.chunk.js",
     "static/media/FrederickatheGreat-Regular.ttf": "/static/media/FrederickatheGreat-Regular.69cef5dc99024da59d1e.ttf",
     "static/media/Merriweather-Regular.ttf": "/static/media/Merriweather-Regular.da67ca8c38ef44c4773d.ttf",
@@ -13,15 +13,15 @@
     "static/media/covercross.webp": "/static/media/covercross.bb543669c410e2be9ae5.webp",
     "index.html": "/index.html",
     "main.294eb953.css.map": "/static/css/main.294eb953.css.map",
-    "main.f53c563d.js.map": "/static/js/main.f53c563d.js.map",
-    "411.83db3045.chunk.js.map": "/static/js/411.83db3045.chunk.js.map",
+    "main.b8762665.js.map": "/static/js/main.b8762665.js.map",
+    "411.f67d52b1.chunk.js.map": "/static/js/411.f67d52b1.chunk.js.map",
     "479.d9814218.chunk.js.map": "/static/js/479.d9814218.chunk.js.map",
-    "790.b354fa44.chunk.js.map": "/static/js/790.b354fa44.chunk.js.map",
-    "475.e17d86b0.chunk.js.map": "/static/js/475.e17d86b0.chunk.js.map",
+    "790.c0815948.chunk.js.map": "/static/js/790.c0815948.chunk.js.map",
+    "475.b266b420.chunk.js.map": "/static/js/475.b266b420.chunk.js.map",
     "444.f0fe0372.chunk.js.map": "/static/js/444.f0fe0372.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.294eb953.css",
-    "static/js/main.f53c563d.js"
+    "static/js/main.b8762665.js"
   ]
 }
