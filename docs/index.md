@@ -15,3 +15,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 - Izbor Zavjeta iz koga će biti na slučajan način prikazivan redak na naslovnici.
 - Jednostavna pretraga biblijskog teksta po nekom pojmu.
 
+## Biblija-hrv 1.2.0, srpanj 2022
+- Nova značajka: postavljanje i uređivanje knjižnih oznaka 
+  Knjižna oznaka (bookmark) se postavlja dvostrukim tapom na poglavlje.
+  
