@@ -20,5 +20,5 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 
 ## Biblija-hrv 1.2.0, srpanj 2022
 - Nova značajka: postavljanje i uređivanje knjižnih oznaka 
-  ~Knjižna oznaka (bookmark) se postavlja dvostrukim tapom na poglavlje.~
+  ~~Knjižna oznaka (bookmark) se postavlja dvostrukim tapom na poglavlje.~~
   
