@@ -17,6 +17,10 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 - Izbor Zavjeta iz koga će biti na slučajan način prikazivan redak na naslovnici.
 - Jednostavna pretraga biblijskog teksta po nekom pojmu.
 
+## Biblija-hrv 1.2.3, kolovoz 2022
+- Male izmjene korisničkog sučelja
+- Popravak uočenih bagova
+
 ## Biblija-hrv 1.2.2, srpanj 2022
 - Optimiziranje i male izmjene korisničkog sučelja
 
