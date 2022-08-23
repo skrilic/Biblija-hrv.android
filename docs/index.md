@@ -11,6 +11,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 
 # Osnovne značajke
 - Potpuno funkcionira u offline načinu rada.
+- Aplikacija nema reklama i ne prikuplja nikakve podatke o čitateljima.
 - Postavljanje i uređivanje knjižnih oznaka.
 - Izbor između tri ugrađene vizualne teme ("noćna", "dnevna" i "sepia").
 - Izbor veličine slova teksta.
