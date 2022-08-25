@@ -10,7 +10,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 </p>
 
 # Osnovne značajke
-- Potpuno funkcionira u offline načinu rada.
+- Potpuno funkcionira u izvanmrežnom načinu rada.
 - Aplikacija nema reklama i ne prikuplja nikakve podatke o čitateljima.
 - Postavljanje i uređivanje knjižnih oznaka.
 - Izbor između tri ugrađene vizualne teme ("noćna", "dnevna" i "sepia").
@@ -20,7 +20,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 
 ## Biblija-hrv 1.2.3, kolovoz 2022
 - Male izmjene korisničkog sučelja
-- Popravak uočenih bagova
+- Popravak uočenih pogrešaka
 
 ## Biblija-hrv 1.2.2, srpanj 2022
 - Optimiziranje i male izmjene korisničkog sučelja
