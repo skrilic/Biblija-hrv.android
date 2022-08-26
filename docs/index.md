@@ -1,6 +1,6 @@
 ## Biblija-hrv
 
-Aplikacija za čitanje Biblije na hrvatskom jeziku po prijevodu Kršćanske sadašnjosti.
+Aplikacija za čitanje Katoličke Biblije na hrvatskom jeziku.
 Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Biblija-hrv](https://biblija-hrv.vercel.app).
 
 <p align="center">
