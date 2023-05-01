@@ -20,7 +20,6 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 - Dnevni program čitanja Biblije za 365 dana.
 
 ## Biblija-hrv 2.0.0, travanj 2023
-(Ova inačica je trenutno na testiranju i dostupna je samo kao PWA na [Biblija-hrv](https://biblija-hrv.vercel.app))
 - Dodana nova funkcionalnost raspored dnevnog čitanja Katoličke Biblije u 365 dana.
 - Dodana nova tema s većim kontrastom za noćno čitanje. 
 
