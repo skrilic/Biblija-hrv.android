@@ -18,6 +18,9 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 - Izbor Zavjeta iz koga će biti na slučajan način prikazivan redak na naslovnici.
 - Jednostavna pretraga biblijskog teksta po nekom pojmu.
 - Dnevni program čitanja Biblije za 365 dana.
+- 
+## Biblija-hrv 2.0.2, svibanj 2023
+- Optimiziran plan čitanja Biblije. 
 
 ## Biblija-hrv 2.0.0, travanj 2023
 - Dodana nova funkcionalnost raspored dnevnog čitanja Katoličke Biblije u 365 dana.
