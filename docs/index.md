@@ -10,30 +10,43 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 </p>
 
 # Osnovne značajke
-- Potpuno funkcionira u izvanmrežnom načinu rada.
-- Aplikacija nema reklama i ne prikuplja nikakve podatke o čitateljima.
-- Postavljanje i uređivanje knjižnih oznaka.
+
+## - Potpuno funkcionira u izvanmrežnom načinu rada.
+
+## - Aplikacija nema reklama i ne prikuplja nikakve podatke o čitateljima.
+
+## - Postavljanje i uređivanje knjižnih oznaka.
+
 - Izbor između tri ugrađene vizualne teme ("noćna", "dnevna" i "sepia").
 - Izbor veličine slova teksta.
 - Izbor Zavjeta iz koga će biti na slučajan način prikazivan redak na naslovnici.
 - Jednostavna pretraga biblijskog teksta po nekom pojmu.
 - Dnevni program čitanja Biblije za 365 dana.
-- 
+- Biblija-hrv 2.0.4, kolovoz 2023
+
+## Biblija-hrv 2.0.4, kolovoz 2023
+
+* Zbog zatjeva Gogle trgovine promijenjen minimalna API razina na 33.
+
 ## Biblija-hrv 2.0.2, svibanj 2023
-- Optimiziran plan čitanja Biblije. 
+
+- Optimiziran plan čitanja Biblije.
 
 ## Biblija-hrv 2.0.0, travanj 2023
+
 - Dodana nova funkcionalnost raspored dnevnog čitanja Katoličke Biblije u 365 dana.
-- Dodana nova tema s većim kontrastom za noćno čitanje. 
+- Dodana nova tema s većim kontrastom za noćno čitanje.
 
 ## Biblija-hrv 1.2.3, kolovoz 2022
+
 - Male izmjene korisničkog sučelja
 - Popravak uočenih pogrešaka
 
 ## Biblija-hrv 1.2.2, srpanj 2022
+
 - Optimiziranje i male izmjene korisničkog sučelja
 
 ## Biblija-hrv 1.2.0, srpanj 2022
-- Nova značajka: postavljanje i uređivanje knjižnih oznaka 
+
+- Nova značajka: postavljanje i uređivanje knjižnih oznaka
   ~~Knjižna oznaka (bookmark) se postavlja dvostrukim tapom na poglavlje.~~
-  
