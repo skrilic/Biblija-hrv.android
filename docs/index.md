@@ -11,7 +11,9 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 
 # Osnovne značajke
 
-## - Potpuno funkcionira u izvanmrežnom načinu rada.
+## - Čitanje Biblije u izvanmrežnom načinu rada.
+
+## - Slušanje Biblije, potrebna je veza na internet.
 
 ## - Aplikacija nema reklama i ne prikuplja nikakve podatke o čitateljima.
 
@@ -22,7 +24,9 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 - Izbor Zavjeta iz koga će biti na slučajan način prikazivan redak na naslovnici.
 - Jednostavna pretraga biblijskog teksta po nekom pojmu.
 - Dnevni program čitanja Biblije za 365 dana.
-- Biblija-hrv 2.0.4, kolovoz 2023
+
+## Biblija-hrv 3.0.0, rujan 2023
+- Dodana funkcionalnost slušanja Biblije pomoću TTS usluge [ResponsiveVoice](https://responsivevoice.org) 
 
 ## Biblija-hrv 2.0.4, kolovoz 2023
 
