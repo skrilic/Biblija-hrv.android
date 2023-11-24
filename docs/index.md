@@ -26,7 +26,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 - Dnevni program čitanja Biblije za 365 dana.
 
 ## Biblija-hrv 3.0.0, rujan 2023
-- Dodana funkcionalnost slušanja Biblije pomoću TTS usluge [ResponsiveVoice](https://responsivevoice.org) 
+- Dodana funkcionalnost slušanja Biblije pomoću korištenjem TTS funkcije. 
 
 ## Biblija-hrv 2.0.4, kolovoz 2023
 
