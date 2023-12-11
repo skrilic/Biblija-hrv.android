@@ -13,7 +13,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 
 ## - Čitanje Biblije u izvanmrežnom načinu rada.
 
-## - Slušanje Biblije, potrebna je veza na internet.
+## - Slušanje Biblije (korištenjem sustava sinteze govora iz teksta, TTS).
 
 ## - Aplikacija nema reklama i ne prikuplja nikakve podatke o čitateljima.
 
