@@ -25,7 +25,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 - Jednostavna pretraga biblijskog teksta po nekom pojmu.
 - Dnevni program čitanja Biblije za 365 dana.
 
-## Biblija-hrv 3.0.0.1, lipanj 2024
+## Biblija-hrv 3.0.0.1, srpanj 2024
 
 - Zbog uvjeta za nastavak korištenja Google trgovine ciljni API level podignut na 34.
 
