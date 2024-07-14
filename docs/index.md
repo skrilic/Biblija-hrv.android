@@ -27,7 +27,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao web aplikacija [Bibli
 
 ## Biblija-hrv 3.0.0.1, srpanj 2024
 
-- Zbog uvjeta za nastavak korištenja Google trgovine ciljni API level podignut na 34.
+- Zbog uvjeta za nastavak korištenja Google trgovine ciljna API razina podignuta na 34.
 
 ## Biblija-hrv 3.0.0, rujan 2023
 - Dodana funkcionalnost slušanja Biblije korištenjem TTS funkcije. 
