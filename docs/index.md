@@ -5,7 +5,7 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao PWA web aplikacija.
 
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.sks.biblija"><img width="256" height="256" src="https://skrilic.github.io/Biblija-hrv.android/pngwing.com.png" style="vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://biblija-hrv.vercel.app"><img width="160" src="https://skrilic.github.io/Biblija-hrv.android/pwa-logo.svg" style="vertical-align: middle;"></a>
+    <a href="https://biblija-hrv.vercel.app"><img width="160" src="https://skrilic.github.io/Biblija-hrv.android/pwa-logo-biblija-hrv.png" style="vertical-align: middle;"></a>
 </p>
 
 # Osnovne značajke
