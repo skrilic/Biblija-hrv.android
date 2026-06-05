@@ -14,15 +14,15 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao PWA web aplikacija.
     <a href="https://biblija-hrv.vercel.app"><img width="160" src="https://skrilic.github.io/Biblija-hrv.android/pwa-logo-biblija-hrv.png" style="vertical-align: middle;"></a>
 </p>
 
-# Osnovne značajke
+## Osnovne značajke
 
-## - Čitanje Biblije u izvanmrežnom načinu rada.
+### - Čitanje Biblije u izvanmrežnom načinu rada.
 
-## - Slušanje Biblije (korištenjem sustava sinteze govora iz teksta, TTS).
+### - Slušanje Biblije (korištenjem sustava sinteze govora iz teksta, TTS).
 
-## - Aplikacija nema reklama i ne prikuplja nikakve podatke o čitateljima.
+### - Aplikacija nema reklama i ne prikuplja nikakve podatke o čitateljima.
 
-## - Postavljanje i uređivanje knjižnih oznaka.
+### - Postavljanje i uređivanje knjižnih oznaka.
 
 - Izbor između ugrađenih vizualnih teme ("noćna", "dnevna", "sepia", ...).
 - Izbor veličine slova teksta.
