@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: "Biblija-hrv"
 ---
+<style>.post-header { display: none; }</style>
 
 # Biblija-hrv
 
