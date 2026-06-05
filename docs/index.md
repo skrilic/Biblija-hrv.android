@@ -1,5 +1,3 @@
-## Biblija-hrv
-
 Aplikacija za čitanje Katoličke Biblije na hrvatskom jeziku.
 Sadrži sve knjige Katoličke Biblije, a dostupna je i kao PWA web aplikacija.
 
