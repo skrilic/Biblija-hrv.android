@@ -24,6 +24,13 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao PWA web aplikacija.
 - Jednostavna pretraga biblijskog teksta po nekom pojmu.
 - Dnevni program čitanja Biblije za 365 dana.
 
+## Biblija-hrv 4.0.0.4 lipanj 2026
+
+- Interaktivno mijenjanje postavki glasa (glasnoća, brzina i visina).
+- Omogućen postupak "select-copy-bookmark-paste" unutar poglavlja.
+- Riješeno gubljenje lijeve margine i skakanje teksta pri listanju.
+- Ispravljena pogreška u planu čitanja.
+
 ## Biblija-hrv 4.0.0.0 kolovoz 2025
 
 - Bolja integracija s Ionic okružjem.
