@@ -37,10 +37,9 @@ Sadrži sve knjige Katoličke Biblije, a dostupna je i kao PWA web aplikacija.
 - Riješeno gubljenje lijeve margine i skakanje teksta pri listanju.
 - Ispravljena pogreška u planu čitanja. 
 
-```
-Na donjoj traci izbornika gumb "Plan čitanja" => Srednji gumb na gornjoj traci izbornika => Dolje na dnu padajućeg izbornika odaberite opciju "Potpuni reset plana". Time će se pokrenuti ispravno popunjavanje plana čitanja. 
-```
+Upute za ispravljanje pogreške u planu čitanja:
 
+ Na donjoj traci izbornika gumb *"Plan čitanja" => Srednji gumb na gornjoj traci izbornika => Dolje na dnu padajućeg izbornika odaberite opciju "Potpuni reset plana"*. Time će se pokrenuti ispravno popunjavanje plana čitanja. 
 
 ## Biblija-hrv 4.0.0.0 kolovoz 2025
 
