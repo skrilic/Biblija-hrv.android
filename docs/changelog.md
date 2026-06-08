@@ -22,6 +22,20 @@ title: "Popis izmjena i novosti"
   <div class="changelog-timeline">
 
     <div class="changelog-item">
+      <h2>Biblija-hrv 4.0.0.5 <span class="badge">lipanj 2026</span></h2>
+      <ul>
+        <li>Riješen problem s prikazom od ruba do ruba (edge-to-edge) za Android 15.</li>
+        <li>Ispravljena logika prepoznavanja nadogradnje aplikacije pri prikazu početnog ekrana verzije.</li>
+        <li>Redizajnirana glavna zaglavlja (toolbars) i donji izbornik u moderni, čišći MD3 stil.</li>
+        <li>Uveden novi plutajući audio izvođač na dnu ekrana koji omogućuje slobodno čitanje i listanje teksta tijekom slušanja.</li>
+        <li>Omogućeno sinkronizirano isticanje stihova (karaoke-style) i automatsko glatko pomicanje stihova na sredinu ekrana (kako u samostalnim poglavljima, tako i u Dnevnom planu čitanja s više poglavlja).</li>
+        <li>Moderniziran i vizualno osvježen izgled dijaloga "Postavke" i "O aplikaciji".</li>
+        <li>Riješen problem s neispravnim pozicioniranjem audio izvođača na dugim poglavljima izvan vidnog polja (viewporta) korištenjem React Portala.</li>
+        <li>Riješen problem s neispravnim bojama fonta i gumba audio izvođača pri promjeni vizualne teme te spriječeno automatsko vraćanje i ponavljanje reprodukcije (looping) na kraju poglavlja.</li>
+      </ul>
+    </div>
+
+    <div class="changelog-item">
       <h2>Biblija-hrv 4.0.0.4 <span class="badge">lipanj 2026</span></h2>
       <ul>
         <li>Interaktivno mijenjanje postavki glasa (glasnoća, brzina i visina).</li>
