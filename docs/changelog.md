@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Popis inačica (Changelog)"
+title: "Popis izmjena i novosti"
 ---
 
 <style>
@@ -14,7 +14,7 @@ title: "Popis inačica (Changelog)"
     <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
     Povratak na početnu stranicu
   </a>
-  <h1>Popis inačica (Changelog)</h1>
+  <h1>Popis izmjena i novosti</h1>
   <p>Pregled cjelokupne povijesti izdanja, promjena i novih mogućnosti u aplikaciji **Biblija-hrv**.</p>
 </div>
 
