@@ -20,14 +20,14 @@ title: "Popis izmjena i novosti"
 
 <div class="changelog-container">
   <div class="changelog-timeline">
-
+<!--
     <div class="changelog-item">
       <h2>Biblija-hrv 4.0.0.6 <span class="badge">lipanj 2026</span></h2>
       <ul>
         <li>Otklanjanje pogrešaka i poboljšanje prikaza vizualnog sučelja aplikacije.</li>
       </ul>
     </div>
-
+-->
     <div class="changelog-item">
       <h2>Biblija-hrv 4.0.0.5 <span class="badge">lipanj 2026</span></h2>
       <ul>
