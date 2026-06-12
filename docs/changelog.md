@@ -22,7 +22,7 @@ title: "Popis izmjena i novosti"
   <div class="changelog-timeline">
 
     <div class="changelog-item">
-      <h2>Biblija-hrv 4.0.0.6 (PWA)<span class="badge">lipanj 2026</span></h2>
+      <h2>Biblija-hrv 4.0.0.6 <span class="badge">lipanj 2026</span></h2>
       <ul>
         <li>Ispravljena pogreška (beskonačna petlja iscrtavanja) u Čitanju dana koja je uzrokovala neželjeno gašenje ekrana tijekom slušanja.</li>
         <li>Otklanjanje pogrešaka i poboljšanje prikaza vizualnog sučelja aplikacije.</li>
