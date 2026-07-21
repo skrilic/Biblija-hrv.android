@@ -10,10 +10,12 @@ title: "Biblija-hrv"
 </style>
 
 <div class="hero-container">
+  <!--
   <img class="hero-logo" src="./pngwing.com.png" width="140" height="140" alt="Biblija-hrv Logo">
+  -->
   <h1>Biblija-hrv</h1>
   <p class="hero-subtitle">Aplikacija za čitanje i slušanje Katoličke Biblije na hrvatskom jeziku. Potpuno besplatna, bez reklama i funkcionalna u izvanmrežnom načinu rada.</p>
-  
+  <!--
   <div class="cta-buttons">
     <a href="https://play.google.com/store/apps/details?id=com.sks.biblija" class="cta-btn primary" target="_blank" rel="noopener">
       <svg viewBox="0 0 24 24" width="20" height="20">
@@ -32,7 +34,7 @@ title: "Biblija-hrv"
     </a>
   </div>
 </div>
-
+-->
 <div class="features-container">
   <h2 class="section-title">Osnovne Značajke</h2>
   <p class="section-subtitle">Dizajnirana s ciljem da pruži najbolje moguće iskustvo čitanja i proučavanja Božje Riječi na vašem mobilnom uređaju ili računalu.</p>
