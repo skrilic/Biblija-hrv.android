@@ -14,8 +14,7 @@ title: "Biblija-hrv"
   <p class="hero-subtitle">Aplikacija za čitanje i slušanje Katoličke Biblije na hrvatskom jeziku. Potpuno besplatna, bez reklama i funkcionalna u izvanmrežnom načinu rada.</p>
   <div class="availability-notice" role="note" aria-label="Dostupnost aplikacije">
     <strong>Trenutačna inačica: 4.9.0.0</strong>
-    <p>Android aplikacija od 21. srpnja 2026. povučena je iz javne objave na Google Playu (status <em>Unpublished</em>). Zato je dostupna samo postojećim korisnicima aplikacije, dok je novi korisnici ne mogu pronaći ni instalirati putem Google Playa.</p>
-    <p>Ove su stranice dokumentacija projekta; javna web/PWA inačica aplikacije nije dostupna.</p>
+    <p>Od 21. srpnja 2026. aplikacija je dostupna samo postojećim korisnicima prethodnih inačica</p>
   </div>
 </div>
 
@@ -59,6 +58,7 @@ title: "Biblija-hrv"
       <h3>Brza pretraga</h3>
       <p>Jednostavno i brzo pretražujte biblijski tekst prema pojmovima ili ključnim riječima.</p>
     </div>
+
   </div>
 </div>
 

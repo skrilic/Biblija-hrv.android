@@ -25,11 +25,8 @@ title: "Popis izmjena i novosti"
       <h2>Biblija-hrv 4.9.0.0 <span class="badge">srpanj 2026.</span></h2>
       <ul>
         <li>Dodano je generiranje PDF dokumenata iz knjižnih oznaka i bilježaka, uz prilagođeni stil i podršku za hrvatske znakove.</li>
-        <li>Zagrebačka Biblija postavljena je kao jedini i fiksni izvor biblijskog teksta, metapodataka knjiga i plana čitanja.</li>
-        <li>Uklonjeni su mogućnost izbora prijevoda, pripadajuća logika i podatkovni korpus Biblija-Saric.</li>
         <li>Android aplikacija usklađena je sa sustavom Android 16: ciljana i kompilacijska API razina postavljene su na 36.</li>
-        <li>Aplikacija je povučena iz javne objave na Google Playu (status <em>Unpublished</em>). Inačica 4.9.0.0 dostupna je samo postojećim korisnicima aplikacije; novi je korisnici ne mogu pronaći ni instalirati.</li>
-        <li>Javna web/PWA inačica aplikacije nije dostupna.</li>
+        <li>Inačica 4.9.0.0 dostupna je samo postojećim korisnicima aplikacije</li>
       </ul>
     </div>
 
