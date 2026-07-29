@@ -37,7 +37,7 @@ title: "Biblija-hrv"
 -->
 <div class="features-container">
   <h2 class="section-title">Osnovne Značajke</h2>
-  <p class="section-subtitle">Dizajnirana s ciljem da pruži najbolje moguće iskustvo čitanja i proučavanja Božje Riječi na vašem mobilnom uređaju ili računalu.</p>
+  <p class="section-subtitle">Dizajnirana za čitanje i slušanje Božje Riječi na vašem mobilnom uređaju ili računalu.</p>
 
   <div class="features-grid">
     <div class="feature-card">
