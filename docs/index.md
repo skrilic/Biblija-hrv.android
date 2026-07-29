@@ -10,34 +10,18 @@ title: "Biblija-hrv"
 </style>
 
 <div class="hero-container">
-  <!--
-  <img class="hero-logo" src="./pngwing.com.png" width="140" height="140" alt="Biblija-hrv Logo">
-  -->
   <h1>Biblija-hrv</h1>
   <p class="hero-subtitle">Aplikacija za čitanje i slušanje Katoličke Biblije na hrvatskom jeziku. Potpuno besplatna, bez reklama i funkcionalna u izvanmrežnom načinu rada.</p>
-  <!--
-  <div class="cta-buttons">
-    <a href="https://play.google.com/store/apps/details?id=com.sks.biblija" class="cta-btn primary" target="_blank" rel="noopener">
-      <svg viewBox="0 0 24 24" width="20" height="20">
-        <path d="M5,3.23c-0.29,0.32-0.45,0.86-0.45,1.57v14.41c0,0.7,0.16,1.25,0.45,1.57l0.08,0.07L13.1,12.8v-0.15L5.08,3.15L5,3.23z"/>
-        <path d="M15.77,15.48l-2.67-2.68v-0.15l2.67-2.68l0.08,0.05l3.16,1.8c0.9,0.51,0.9,1.35,0,1.86l-3.16,1.8L15.77,15.48z"/>
-        <path d="M13.18,12.65L10.5,9.97L5.32,4.07c0.23-0.08,0.54-0.03,0.9,0.17l9.64,5.49L13.18,12.65z"/>
-        <path d="M13.18,12.95l2.67,2.68l-9.64,5.49c-0.36,0.2-0.67,0.25-0.9,0.17L13.18,12.95z"/>
-      </svg>
-      Google Play Trgovina
-    </a>
-    <a href="https://biblija-hrv.vercel.app" class="cta-btn secondary" target="_blank" rel="noopener">
-      <svg viewBox="0 0 24 24" width="20" height="20">
-        <path d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm1,14.5H11V11h2Zm0-7H11V7h2Z"/>
-      </svg>
-      Pokreni PWA Web Aplikaciju
-    </a>
+  <div class="availability-notice" role="note" aria-label="Dostupnost aplikacije">
+    <strong>Trenutačna inačica: 4.9.0.0</strong>
+    <p>Android aplikacija od 21. srpnja 2026. povučena je iz javne objave na Google Playu (status <em>Unpublished</em>). Zato je dostupna samo postojećim korisnicima aplikacije, dok je novi korisnici ne mogu pronaći ni instalirati putem Google Playa.</p>
+    <p>Ove su stranice dokumentacija projekta; javna web/PWA inačica aplikacije nije dostupna.</p>
   </div>
 </div>
--->
+
 <div class="features-container">
-  <h2 class="section-title">Osnovne Značajke</h2>
-  <p class="section-subtitle">Dizajnirana za čitanje i slušanje Božje Riječi na vašem mobilnom uređaju ili računalu.</p>
+  <h2 class="section-title">Osnovne značajke</h2>
+  <p class="section-subtitle">Dizajnirana za čitanje i slušanje Božje riječi na uređajima sa sustavom Android.</p>
 
   <div class="features-grid">
     <div class="feature-card">
@@ -60,8 +44,8 @@ title: "Biblija-hrv"
 
     <div class="feature-card">
       <div class="feature-icon-wrapper">📍</div>
-      <h3>Knjižne oznake</h3>
-      <p>Postavljajte i uređujte knjižne oznake, te uvozite ili izvozite svoje podatke za sigurnosnu kopiju.</p>
+      <h3>Oznake, bilješke i PDF</h3>
+      <p>Postavljajte i uređujte knjižne oznake i bilješke, izvozite ih u PDF te izrađujte sigurnosnu kopiju svojih podataka.</p>
     </div>
 
     <div class="feature-card">
@@ -80,7 +64,7 @@ title: "Biblija-hrv"
 
 <div class="wrapper" style="max-width: 1000px; padding: 0 20px; margin: 0 auto;">
   <div class="showcase-container">
-    <h2 class="section-title">Prilagodba Izgleda</h2>
+    <h2 class="section-title">Prilagodba izgleda</h2>
     <p class="section-subtitle">Odaberite ugrađene vizualne teme i veličinu slova za ugodno čitanje u svim uvjetima osvjetljenja.</p>
     
     <div class="showcase-wrapper">
@@ -88,28 +72,28 @@ title: "Biblija-hrv"
         <button class="theme-btn active" data-theme="day">
           <span class="theme-dot day"></span>
           <div class="theme-info">
-            <h4>Dnevna Tema</h4>
+            <h4>Dnevna tema</h4>
             <p>Klasični svijetli prikaz s čistim kontrastom za čitanje pri danjem svjetlu.</p>
           </div>
         </button>
         <button class="theme-btn" data-theme="sepia">
           <span class="theme-dot sepia"></span>
           <div class="theme-info">
-            <h4>Sepia Tema</h4>
+            <h4>Sepia tema</h4>
             <p>Topli žućkasti tonovi koji smanjuju naprezanje očiju kod dužeg čitanja.</p>
           </div>
         </button>
         <button class="theme-btn" data-theme="night">
           <span class="theme-dot night"></span>
           <div class="theme-info">
-            <h4>Noćna Tema</h4>
+            <h4>Noćna tema</h4>
             <p>Potpuno tamna tema idealna za tiho čitanje u mraku bez ometanja.</p>
           </div>
         </button>
         <button class="theme-btn" data-theme="wine">
           <span class="theme-dot wine"></span>
           <div class="theme-info">
-            <h4>Vinska Tema (Vino)</h4>
+            <h4>Vinska tema</h4>
             <p>Kombinacija dubokih crvenih tonova za profinjen i topao izgled.</p>
           </div>
         </button>
@@ -132,10 +116,10 @@ title: "Biblija-hrv"
 
 <div class="changelog-card-wrapper">
   <div class="changelog-card">
-    <h3>Povijest Izmjena i Verzije</h3>
+    <h3>Povijest izmjena i inačice</h3>
     <p>Zanima vas što je novo u posljednjem izdanju? Pogledajte detaljan popis svih nadogradnji, ispravaka i novih mogućnosti.</p>
     <a href="./changelog.html" class="changelog-link-btn">
-      Pregledaj Popis Inačica (Changelog)
+      Pregledaj popis inačica
     </a>
   </div>
 </div>

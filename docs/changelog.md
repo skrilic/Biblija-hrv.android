@@ -15,14 +15,26 @@ title: "Popis izmjena i novosti"
     Povratak na početnu stranicu
   </a>
   <h1>Popis izmjena i novosti</h1>
-  <p>Pregled cjelokupne povijesti izdanja, promjena i novih mogućnosti u aplikaciji **Biblija-hrv**.</p>
+  <p>Pregled cjelokupne povijesti izdanja, promjena i novih mogućnosti u aplikaciji <strong>Biblija-hrv</strong>.</p>
 </div>
 
 <div class="changelog-container">
   <div class="changelog-timeline">
 
     <div class="changelog-item">
-      <h2>Biblija-hrv 4.0.0.6 <span class="badge">lipanj 2026</span></h2>
+      <h2>Biblija-hrv 4.9.0.0 <span class="badge">srpanj 2026.</span></h2>
+      <ul>
+        <li>Dodano je generiranje PDF dokumenata iz knjižnih oznaka i bilježaka, uz prilagođeni stil i podršku za hrvatske znakove.</li>
+        <li>Zagrebačka Biblija postavljena je kao jedini i fiksni izvor biblijskog teksta, metapodataka knjiga i plana čitanja.</li>
+        <li>Uklonjeni su mogućnost izbora prijevoda, pripadajuća logika i podatkovni korpus Biblija-Saric.</li>
+        <li>Android aplikacija usklađena je sa sustavom Android 16: ciljana i kompilacijska API razina postavljene su na 36.</li>
+        <li>Aplikacija je povučena iz javne objave na Google Playu (status <em>Unpublished</em>). Inačica 4.9.0.0 dostupna je samo postojećim korisnicima aplikacije; novi je korisnici ne mogu pronaći ni instalirati.</li>
+        <li>Javna web/PWA inačica aplikacije nije dostupna.</li>
+      </ul>
+    </div>
+
+    <div class="changelog-item">
+      <h2>Biblija-hrv 4.0.0.6 <span class="badge">lipanj 2026.</span></h2>
       <ul>
         <li>Ispravljena pogreška (beskonačna petlja iscrtavanja) u Čitanju dana koja je uzrokovala neželjeno gašenje ekrana tijekom slušanja.</li>
         <li>Otklanjanje pogrešaka i poboljšanje prikaza vizualnog sučelja aplikacije.</li>

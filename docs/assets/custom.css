@@ -103,58 +103,41 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   color: #cbd5e1;
   max-width: 600px;
-  margin: 0 auto 40px auto;
+  margin: 0 auto 32px auto;
   line-height: 1.6;
 }
 
-.hero-container .cta-buttons {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-
-.hero-container .cta-buttons .cta-btn {
-  display: inline-flex;
-  align-items: center;
-  padding: 14px 28px;
-  border-radius: 50px;
-  font-family: 'Outfit', sans-serif;
-  font-weight: 600;
-  font-size: 1rem;
-  text-decoration: none;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-}
-
-.hero-container .cta-buttons .cta-btn.primary {
-  background-color: var(--brand-color);
-  color: #0f172a;
-}
-
-.hero-container .cta-buttons .cta-btn.primary:hover {
-  background-color: #e5b974;
-  transform: translateY(-3px);
-  box-shadow: 0 8px 25px rgba(207, 161, 92, 0.4);
-}
-
-.hero-container .cta-buttons .cta-btn.secondary {
-  background-color: rgba(255, 255, 255, 0.1);
-  color: #ffffff;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+.hero-container .availability-notice {
+  position: relative;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px 24px;
+  border: 1px solid rgba(255, 227, 168, 0.35);
+  border-radius: 16px;
+  background-color: rgba(15, 23, 42, 0.45);
+  color: #e2e8f0;
+  text-align: left;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.2);
   backdrop-filter: blur(10px);
 }
 
-.hero-container .cta-buttons .cta-btn.secondary:hover {
-  background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.4);
-  transform: translateY(-3px);
-  box-shadow: 0 8px 25px rgba(255, 255, 255, 0.1);
+.hero-container .availability-notice strong {
+  display: block;
+  margin-bottom: 8px;
+  color: #ffe3a8;
+  font-family: var(--heading-font-family);
+  font-size: 1.1rem;
 }
 
-.hero-container .cta-buttons .cta-btn svg {
-  margin-right: 10px;
-  fill: currentColor;
+.hero-container .availability-notice p {
+  margin: 0;
+  color: #e2e8f0;
+  line-height: 1.6;
+}
+
+.hero-container .availability-notice p + p {
+  margin-top: 8px;
+  color: #cbd5e1;
 }
 
 /* Section styling */
